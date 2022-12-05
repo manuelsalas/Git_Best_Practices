@@ -1,2 +1,2 @@
 # Git_Best_Practices
-Example as give a good structure of branch to manage code of the project
+example for give a good structure of branches to manage the code of the project
